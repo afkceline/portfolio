@@ -9,9 +9,9 @@ Welcome to my **Portfolio**! This repository is a collection of my data analysis
 
 ## Skills 
 *In this portfolio, you’ll find demonstrations of the following skills:*
-- **Data Analysis:** Utilizing Python, SQL, and various libraries to extract insights from data.
+- **Data Analysis:** Utilizing Python, SQL, and various libraries, such as Pandas, to extract insights from data.
 - **Data Visualization:** Creating compelling visualizations with Tableau, PowerBI, and Python libraries like Matplotlib and Plotly.
-- **Web Scraping:** Extracting data from the web using Python with BeautifulSoup and Selenium.
+- **Web Scraping:** Extracting data from the web using Python with BeautifulSoup.
 - **Big Data:** Applying big data technologies and concepts to analyze large datasets.
 - **Business Intelligence:** Transforming data into actionable business insights using advanced BI tools and techniques.
 
