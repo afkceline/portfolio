@@ -1,4 +1,4 @@
-### Tableau Public Portfolio (In Progress)
+### Tableau Public Portfolio
 
 I'm currently working on building my **Tableau Public portfolio** where I show you my latest dashboards. 
 Follow along as I continue to add new projects. Feedback and collaboration ideas are always welcome!
