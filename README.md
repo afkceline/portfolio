@@ -1,25 +1,46 @@
 # Data Analytics Portfolio
-Welcome to my **Portfolio**! This repository is a collection of my data analysis and visualization projects, showcasing the skills and knowledge I’ve gained through my master’s program and ongoing practice. Here, you’ll find a diverse range of projects, including my final master’s project, practical exercises, and presentations—all related to data and technology.
 
-## Contents (Coming soon)
-- **Master’s Final Project:** A comprehensive data analysis project demonstrating my ability to tackle real-world problems using data.
-- **Practical Exercises:** Various examples showcasing different techniques and skills acquired during my studies.
-- **Presentations:** Professional presentations that illustrate the results and insights from my data analysis projects.
-- **Code and Notebooks:** Scripts and Jupyter notebooks detailing the methodologies and analyses used.
+Welcome to my portfolio!  
+This repository brings together my data analysis and visualization projects - everything from my master’s final project to hands‑on exercises and presentations. It’s a mix of real-world analytics, technical practice, and the tools I use every day to work with data.
 
-## Skills 
-*In this portfolio, you’ll find demonstrations of the following skills:*
-- **Data Analysis:** Utilizing Python, SQL, and various libraries, such as Pandas, to extract insights from data.
-- **Data Visualization:** Creating compelling visualizations with Tableau, PowerBI, and Python libraries like Matplotlib and Plotly.
-- **Web Scraping:** Extracting data from the web using Python with BeautifulSoup.
-- **Big Data:** Applying big data technologies and concepts to analyze large datasets.
-- **Business Intelligence:** Transforming data into actionable business insights using advanced BI tools and techniques.
+---
 
-## Why This Portfolio?
-This repository showcases not only the skills and knowledge I have acquired but also provides practical examples of how these skills are applied. It serves as a resource for anyone interested in understanding the depth of my expertise in data analytics and offers step-by-step analyses for new learners.
+## 🚀 Contents (coming soon)
 
-## Languages
-Spanish & English. 
+- **Master’s Final Project** — A full end‑to‑end data analysis tackling a real business problem.
+- **Practical Exercises** — Small projects where I apply different techniques and tools.
+- **Presentations** — Clear, visual explanations of insights and results.
+- **Code & Notebooks** — Python scripts and Jupyter notebooks showing the full analytical workflow.
 
-## Get in Touch
-If you have any questions, feedback, or just want to connect, feel free to reach out to me through GitHub *afkceline*. I’m always happy to share ideas, collaborate, and grow within this amazing field of technology.
+---
+
+## 🧠 Skills
+
+Here you’ll find examples of how I work with:
+
+- **Data Analysis** — Python, SQL, Pandas, and other libraries to clean, transform, and analyze data.
+- **Data Visualization** — Dashboards and visual insights using Tableau, Power BI, Matplotlib, and Plotly.
+- **Web Scraping** — Collecting data from the web with Python and BeautifulSoup.
+- **Big Data** — Concepts and tools for working with large-scale datasets.
+- **Business Intelligence** — Turning data into actionable insights, KPIs, and business‑oriented dashboards.
+
+---
+
+## 🎯 Why this portfolio?
+
+Because it shows not just what I know, but **how I work**.  
+You’ll find complete, reproducible projects with clear explanations, visualizations, and code that can help others learn—or help you evaluate my approach to data analytics.
+
+---
+
+## 🌍 Languages
+
+- Spanish  
+- English  
+
+---
+
+## 📬 Get in Touch
+
+If you want to chat, share feedback, or connect, you can find me on GitHub: **afkceline**.  
+Always open to new ideas, collaborations, and anything related to data and tech.
