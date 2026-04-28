@@ -5,7 +5,7 @@ This repository brings together my data analysis and visualization projects - ev
 
 ---
 
-## 🚀 Contents (coming soon)
+## 🚀 Contents
 
 - **Master’s Final Project** — A full end‑to‑end data analysis tackling a real business problem.
 - **Practical Exercises** — Small projects where I apply different techniques and tools.
