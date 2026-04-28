@@ -1,0 +1,9 @@
+### Power BI Data Visualization
+
+This section highlights the Power BI data visualizations I developed for my master’s final project with Pontia. 
+The goal was to design a fleet of 200 used vehicles for Europcar, supported by a €3,000,000 investment. The fleet had to follow a specific composition: 40% vans, 30% compact cars, and 30% sedans.
+
+The analysis included market benchmarking, pricing variability, vehicle performance indicators, and strategic recommendations to maximize fleet value and operational efficiency.
+To build the final fleet, I filtered the dataset to include vehicles from 2018 onwards, with the lowest possible mileage, and ranked them based on their Total Cost Opportunity (TCO). This allowed me to identify the most cost‑efficient options and shape a balanced, data‑driven fleet composition.
+
+🔗 **Take a look at the visualization here** [https://app.powerbi.com/links/26bg1SCVS_?ctid=6afea85d-c323-4270-b69d-a4fb3927c254&pbi_source=linkShare]
