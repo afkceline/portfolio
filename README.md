@@ -1,46 +1,74 @@
-# Data Analytics Portfolio
+# My Data Analytics Portfolio
 
-Welcome to my portfolio!  
-This repository brings together my data analysis and visualization projects - everything from my master’s final project to hands‑on exercises and presentations. It’s a mix of real-world analytics, technical practice, and the tools I use every day to work with data.
-
----
-
-## 🚀 Contents
-
-- **Master’s Final Project** — A full end‑to‑end data analysis tackling a real business problem.
-- **Practical Exercises** — Small projects where I apply different techniques and tools.
-- **Presentations** — Clear, visual explanations of insights and results.
-- **Code & Notebooks** — Python scripts and Jupyter notebooks showing the full analytical workflow.
+**Data Analyst** | SQL · Python · PySpark · Power BI · Tableau · Azure
 
 ---
 
-## 🧠 Skills
+## Featured Project
 
-Here you’ll find examples of how I work with:
+### 🚗 Europcar Fleet Market Analysis *(Master's Final Project — PontIA, 2026)*
 
-- **Data Analysis** — Python, SQL, Pandas, and other libraries to clean, transform, and analyze data.
-- **Data Visualization** — Dashboards and visual insights using Tableau, Power BI, Matplotlib, and Plotly.
-- **Web Scraping** — Collecting data from the web with Python and BeautifulSoup.
-- **Big Data** — Concepts and tools for working with large-scale datasets.
-- **Business Intelligence** — Turning data into actionable insights, KPIs, and business‑oriented dashboards.
+**Business problem:** Europcar needed to optimise its vehicle acquisition strategy under a €3M budget constraint, balancing cost, mileage, and fuel type to minimise Total Cost of Ownership (TCO).
 
----
+**What I did:**
+- Extracted a dataset of **55,000+ second-hand vehicles** via web scraping with Python (BeautifulSoup, Pandas)
+- Cleaned, normalised, and validated data quality across a large-scale dataset
+- Modelled TCO assuming intensive use of 30,000 km/year per vehicle
+- Ran exploratory analysis and segmentation using **SQL and PySpark**
+- Built interactive **Power BI dashboards** with business-oriented KPIs
 
-## 🎯 Why this portfolio?
+**Tools:** Python · BeautifulSoup · Pandas · SQL · PySpark · Power BI
 
-Because it shows not just what I know, but **how I work**.  
-You’ll find complete, reproducible projects with clear explanations, visualizations, and code that can help others learn—or help you evaluate my approach to data analytics.
-
----
-
-## 🌍 Languages
-
-- Spanish  
-- English  
+📁 [View project →](./PowerBI) | [Web scraping code →](./Web%20Scraping)
 
 ---
 
-## 📬 Get in Touch
+## Repository Structure
 
-If you want to chat, share feedback, or connect, you can find me on GitHub: **afkceline**.  
-Always open to new ideas, collaborations, and anything related to data and tech.
+| Folder | Description |
+|--------|-------------|
+| [`/PowerBI`](./PowerBI) | Interactive dashboards and KPI reports built in Power BI |
+| [`/SQL`](./SQL) | Queries for data extraction, transformation, and exploratory analysis |
+| [`/Web Scraping`](./Web%20Scraping) | Python scripts for collecting and structuring data from the web |
+
+---
+
+## Skills Demonstrated
+
+**Languages & libraries**
+`Python` `SQL` `Spark SQL` `PySpark` `Pandas` `NumPy` `BeautifulSoup`
+
+**Visualisation & BI**
+`Power BI` `Tableau` `Looker Studio` `Matplotlib` `Plotly`
+
+**Data workflows**
+`ETL` `Data cleaning` `Data quality validation` `Large-scale datasets` `Web scraping`
+
+**Cloud & tools**
+`Microsoft Azure (fundamentals)` `KNIME` `Excel Advanced` `Google Sheets`
+
+---
+
+## Other Projects
+
+### 🍷 European Wine Sector Innovation Strategy *(Plataforma Tecnológica del Vino, 2023)*
+Collected and analysed sector data to map EU funding opportunities (Horizon Europe). Prepared dashboards and reports for strategic decision-making by industry stakeholders.
+
+**Tools:** Excel · Data visualisation
+
+---
+
+## About Me
+
+I'm a Data Analyst with a background in Engineering and a Master's in Data Analytics. I enjoy turning messy, complex datasets into clear insights that help teams make better decisions — and I care as much about the story the data tells as the code behind it.
+
+I'm comfortable working across the full data workflow: from scraping and cleaning raw data to building dashboards and presenting findings to non-technical audiences.
+
+Currently open to **junior Data Analyst roles** 
+
+---
+
+## Contact
+
+Feel free to reach out or connect:
+- afkceline on github
