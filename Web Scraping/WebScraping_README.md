@@ -9,7 +9,7 @@
 
 | File | Description |
 |------|-------------|
-| `case_study_bs_pandas.ipynb` | Practice exercises using BeautifulSoup to extract structured data from different web sources and case studies |
+| `webscraping_cs.ipynb` | Practice exercises using Pandas and BeautifulSoup to extract structured data from different web sources and case studies |
 | `master_project_europcar_scraping.ipynb` | Full scraping script for the Europcar fleet analysis project — extracts 55,000+ vehicle listings and outputs a clean CSV ready for processing |
 
 ---
