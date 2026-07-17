@@ -40,7 +40,7 @@ grupo_ari/
 ├── documentacion/
 │   ├── Memoria Prueba Técnica.pdf
 │   ├── MATRICULACIONES_MATRABA.pdf
-│   ├── README.md
+│   ├── grupoari_canarias_readme.md
 │   └── requirements.txt
 │   
 ```
